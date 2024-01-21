@@ -1,7 +1,7 @@
 // thong bao so
 console.log(100);
 // thong bao ki tu
-console.log('Viet anh dep trai');
+console.log('Lê Hoàng Tú dep trai');
 // thong bao cai kieu du lieu
 console.log(100,'haha',true);
  // log a variedf
@@ -11,7 +11,7 @@ console.log(100,'haha',true);
   console.error('Alert');
   console.warn('Warning');
   // log object as table
-  console.table({name: 'Viet',email:'anhpvph37030@gmail.com'});
+  console.table({name: 'Tú',email:'LeHoangTu56@gmail.com'});
   //group console  command
   console.group('simple');
   console.groupEnd();

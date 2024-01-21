@@ -2,7 +2,7 @@ let x;
 
 // Khai báo biến x không gán giá trị
 
-const name = 'VietAnh';
+const name = 'LÊ TÚ';
 const age = 30;
 
 // Nối chuỗi (concatenation)

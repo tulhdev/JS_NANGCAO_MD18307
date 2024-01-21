@@ -17,7 +17,7 @@ const n = 161651561313n;
 // reference type
 const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const person = {
-  firstName: "Pham",
+  firstName: "LÊ",
 };
 function sayHello() {
   console.log("Hello");

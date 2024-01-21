@@ -1,7 +1,7 @@
 // Ways   to  declare  a variable
 //' var' ,'let' ,'const'
-let fisrtName = "Pham";
-let lastName = "Viet";
+let fisrtName = "LÊ HOÀNG";
+let lastName = "Tú";
 let age = 20;
 console.log(fisrtName, lastName, age);
 
@@ -34,11 +34,11 @@ const arr = [1, 2, 3, 4];
 arr.push(5);
 console.log(arr);
 const person = {
-  firstName: "Pham",
-  lastName: "Viet",
+  firstName: "LÊ HOÀNG",
+  lastName: "TÚ",
 };
-person.firstName = "Anh";
-person.email = "anhpvph37030@gmail.com";
+person.firstName = "HOÀNG";
+person.email = "tulhph38753@fpt.edu.vn";
 console.log(person);
 let a, b, c;
 const d = 10;

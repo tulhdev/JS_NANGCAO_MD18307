@@ -1,5 +1,5 @@
 // Value is stored in the stack
-const name = 'Viet ';
+const name = 'TÚ ';
 const age = 30;
 
 // Reference is stored in the heap
